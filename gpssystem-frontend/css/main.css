@@ -1,0 +1,46 @@
+.emrForm {
+  margin-bottom: 2px;
+  width: 100%;
+  outline: 0;
+  border-width: 0 0 2px;
+  border-color: #41b568;
+}
+
+select option[data-default] {
+  display:none;
+}
+
+#emrSubmit {
+  width: 100%;
+  border: 0px;
+  color: white;
+  background-color: #519c6a;
+}
+
+#emrReset {
+  color: #f0faf3;
+  font-size: 11px;
+  float: right;
+  cursor: pointer;
+}
+
+.menuHead {
+  background-color: #41b568;
+  color: white;
+  padding: 8px;
+  margin-bottom: 2px;
+  width: 100%;
+  border-top: 1px solid black;
+}
+
+#icon {
+  width: 150px;
+  display: none;
+}
+
+.prgCard {
+  background-color: #e3ffe9;
+  font-size: 13px;
+  padding: 5px;
+  border-bottom: 1px solid black;
+}
